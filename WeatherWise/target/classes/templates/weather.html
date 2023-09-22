@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather Details</title>
+    <link rel="icon" href="/img/favicon.ico">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/button.css">
+    <link rel="stylesheet" href="/css/footer.css">
+    <link rel="stylesheet" href="/css/weather-details.css">
+</head>
+<body>
+
+<div class="center-box">
+    <h1 class="title">WeatherWise</h1>
+    <div class="weather-details">
+        <h1>Weather Details for <span th:text="${weather.cityName}"></span></h1>
+        <p>Temperature: <span class="temperature" th:text="${weather.temperature}"></span>°C</p>
+        <p>Description: <span th:text="${weather.weatherDescription}"></span></p>
+        <p>Wind Speed: <span th:text="${weather.windSpeed}"></span> m/s</p>
+    </div>
+    <div class="card">
+        <form id="weather-form" action="/weather" method="post">
+            <div class="search-container">
+                <input type="text" id="location" name="location" placeholder="Enter Location" autocomplete="off">
+                <div class="button">
+                    <button type="submit"><img src="/img/search.svg"> Search</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <footer>
+        &copy; WeatherWise 2023
+    </footer>
+</div>
+<script>
+    function roundToTwoDecimalPlaces(number) {
+        return parseFloat(number).toFixed(2);
+    }
+
+    var temperatureElements = document.getElementsByClassName("temperature");
+    for (var i = 0; i < temperatureElements.length; i++) {
+        var temperatureText = temperatureElements[i].textContent;
+        var roundedTemperature = roundToTwoDecimalPlaces(temperatureText);
+        temperatureElements[i].textContent = roundedTemperature;
+    }
+</script>
+</body>
+</html>
