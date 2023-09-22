@@ -1,0 +1,37 @@
+/* Existing CSS styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center-box {
+    display: flex;
+    flex-direction: column; /* Change flex-direction to column */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('../img/physical-world-map.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.8;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column; /* Add flex-direction: column */
+    align-items: center; /* Center content horizontally */
+}
+
+.title {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: rgba(0, 0, 0, 0.7);
+    margin-bottom: 20px; /* Add spacing below the title */
+}
+
