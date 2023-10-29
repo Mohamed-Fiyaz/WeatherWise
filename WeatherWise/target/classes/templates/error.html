@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Error</title>
+    <link rel="icon" href="/img/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/button.css">
+    <link rel="stylesheet" href="/css/footer.css">
+    <link rel="stylesheet" href="/css/weather-details.css">
+    <link rel="stylesheet" href="/css/error.css">
+</head>
+<body>
+<div class="backdrop"></div>
+<header class="main-header">
+    <button id="side-menu-toggle">Menu</button>
+    <nav class="main-header__nav">
+        <ul class="main-header__item-list">
+            <li><img class="logo" src="/img/WeatherWise_Logo.png" alt="WeatherWise Logo"></li>
+            <p class="navbar-brand">WeatherWise</p>
+            <li class="main-header__item"><a class="active" href="/">Home</a></li>
+            <li class="main-header__item"><a href="/search-history">Search History</a></li>
+        </ul>
+    </nav>
+</header>
+<nav class="mobile-nav">
+    <ul class="mobile-nav__item-list">
+        <li class="mobile-nav__item">
+            <a class="active" href="/">Home</a>
+        </li>
+        <li class="mobile-nav__item">
+            <a class="" href="/search-history">Search History</a>
+        </li>
+    </ul>
+</nav>
+<div class="center-box">
+    <h1 class="title">WeatherWise</h1>
+    <div class="error-details">
+        <h1>Error</h1>
+        <p>The location you provided may be incorrect or does not exist. Please double-check the location and try
+            again.</p>
+    </div>
+    <div class="error">
+        <a th:href="@{/}">Go Back</a>
+    </div>
+    <footer>
+        &copy; WeatherWise 2023
+    </footer>
+</div>
+<script src="/js/main.js"></script>
+</body>
+</html>
