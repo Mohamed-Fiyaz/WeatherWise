@@ -1,20 +1,20 @@
 # WeatherWise
 
-![WeatherWise_Logo](https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/cc3df929-842a-4eff-9722-d7127155207c)
+![WeatherWise_Logo](https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/f21a2f86-bb78-402e-81e2-fea567018644)
 
 WeatherWise is a weather information web application that allows users to check the current weather conditions for any location. It provides temperature details in Celsius, weather descriptions, and wind speed information.
 
 ## Features
 
-<img width="1439" alt="Screenshot 2023-09-22 at 9 52 09 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/c182afad-6deb-469c-bf96-d4b870cf6a9a">
+<img width="1440" alt="Screenshot 2023-10-27 at 9 37 43 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/03f12931-6f39-497d-a454-074074387e99">
 
 - **User-Friendly Interface**: Clean and easy-to-use interface for entering locations.
 <hr>
-<img width="1440" alt="Screenshot 2023-09-22 at 9 54 03 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/f19896b3-a541-4990-8e6d-08e625bffe58">
+<img width="1440" alt="Screenshot 2023-10-27 at 9 38 48 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/4f6d46d6-e710-45d1-ad46-a4e4fa038cd1">
 
 - **Weather Data**: Retrieve and display weather information from the OpenWeatherMap API.
 <hr>
-<img width="1440" alt="Screenshot 2023-09-22 at 9 54 33 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/0aae5a35-4d36-44b4-ad1d-bd1618abcee5">
+<img width="1440" alt="Screenshot 2023-10-27 at 9 45 24 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/f45595c2-52a2-4443-878c-55481ef9578d">
 
 - **Error Message**: Clearly states the nature of the error.
 <hr>
