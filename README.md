@@ -25,7 +25,7 @@ WeatherWise is a weather information web application that allows users to check 
 
 <img width="1440" alt="Screenshot 2023-10-27 at 9 41 32 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/a82f107d-cdf1-4def-bdab-3501d08efdbe">
 
-- **Search History**: WeatherWise introduces a convenient Search History feature that allows users to revisit their past weather queries. Users can easily navigate through their search history to check previous locations and their associated weather details. This feature is ideal for users who frequently check weather conditions for various places.
+- **Search History**: This feature allows users to revisit their past weather queries. Users can easily navigate through their search history to check previous locations and their associated weather details. This feature is ideal for users who frequently check weather conditions for various places. The search history can also be cleared if the user wishes to clear it.
 <hr>
 
 <img width="1440" alt="Screenshot 2023-10-27 at 9 45 24 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/d1ebca5b-34a9-473c-8afe-70f2b956cdb9">
