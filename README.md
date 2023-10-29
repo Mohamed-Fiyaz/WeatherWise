@@ -12,7 +12,7 @@ WeatherWise is a weather information web application that allows users to check 
 <hr>
 
 <img width="753" alt="Screenshot 2023-10-27 at 9 40 32 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/dd107061-008c-4cce-81fa-7922e833ad25">
-
+<hr>
 <img width="752" alt="Screenshot 2023-10-27 at 9 41 05 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/4b4d0af9-906c-4d25-9858-4bb695b40f57">
 
 - **Responsive Navbar**: WeatherWise's responsive design ensures compatibility with small screen sizes. The navigation bar adapts to different devices, making it convenient for users to access the application from various platforms. WeatherWise offers two primary page options: Home and Search History.
