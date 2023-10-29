@@ -1,6 +1,6 @@
 # WeatherWise
 
-![WeatherWise_Logo](https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/f21a2f86-bb78-402e-81e2-fea567018644)
+![DALL·E-2023-10-27-09 20 46-pixel-art-of-one-stormy-cloud-](https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/ac095305-bd26-4f9f-984c-1b89bc3c4bc6)
 
 WeatherWise is a weather information web application that allows users to check the current weather conditions for any location. It provides temperature details in Celsius, weather descriptions, and wind speed information.
 
