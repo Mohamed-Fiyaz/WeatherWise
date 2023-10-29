@@ -21,11 +21,13 @@ WeatherWise is a weather information web application that allows users to check 
 
 ## Technology Stack
 
-WeatherWise is built using the following technologies:
+WeatherWise leverages a comprehensive technology stack that encompasses:
 
-- **Java**: Backend development using Java language.
-- **Spring Boot**: Framework for building Java applications.
-- **Thymeleaf**: Server-side templating for dynamic HTML rendering.
-- **OpenWeatherMap API**: External API for weather data retrieval.
-- **HTML/CSS**: Frontend design and styling.
+- **Java:** The primary language for backend development.
+- **Spring Boot:** A robust framework used for building Java applications.
+- **Thymeleaf:** Employed for server-side templating, enabling dynamic HTML rendering.
+- **OpenWeatherMap API:** Integrated to access external weather data for accurate forecasts.
+- **HTML/CSS:** Utilized for frontend design and styling, ensuring an intuitive user interface.
+- **JavaScript (JS):** Enhances interactivity and dynamic behavior on the client side.
+- **PostgreSQL:** The relational database management system responsible for storing and managing data efficiently.
 
