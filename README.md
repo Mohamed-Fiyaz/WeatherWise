@@ -1,4 +1,4 @@
-# WeatherWise
+<img width="1440" alt="Screenshot 2023-10-27 at 9 41 32 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/338f1db3-84a3-46c0-95e9-dabfacc6a18a"># WeatherWise
 
 ![WeatherWise_Logo](https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/ad175c35-a799-4e34-9ae8-d98928795b36)
 
@@ -10,11 +10,22 @@ WeatherWise is a weather information web application that allows users to check 
 
 - **User-Friendly Interface**: Clean and easy-to-use interface for entering locations.
 <hr>
+
+<img width="753" alt="Screenshot 2023-10-27 at 9 40 32 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/dd107061-008c-4cce-81fa-7922e833ad25">
+<img width="752" alt="Screenshot 2023-10-27 at 9 41 05 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/4b4d0af9-906c-4d25-9858-4bb695b40f57">
+
+- **Responsive Navbar**: WeatherWise's responsive design ensures compatibility with small screen sizes. The navigation bar adapts to different devices, making it convenient for users to access the application from various platforms. WeatherWise offers two primary page options: Home and Search History.
+  
 <img width="1440" alt="Screenshot 2023-10-27 at 9 38 48 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/4f6d46d6-e710-45d1-ad46-a4e4fa038cd1">
 
 - **Weather Data**: Retrieve and display weather information from the OpenWeatherMap API.
 <hr>
-<img width="1440" alt="Screenshot 2023-10-27 at 9 45 24 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/f45595c2-52a2-4443-878c-55481ef9578d">
+
+<img width="1440" alt="Screenshot 2023-10-27 at 9 41 32 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/a82f107d-cdf1-4def-bdab-3501d08efdbe">
+
+- **Search History**: WeatherWise introduces a convenient Search History feature that allows users to revisit their past weather queries. Users can easily navigate through their search history to check previous locations and their associated weather details. This feature is ideal for users who frequently check weather conditions for various places.
+
+<img width="1440" alt="Screenshot 2023-10-27 at 9 45 24 PM" src="https://github.com/Mohamed-Fiyaz/WeatherWise/assets/124451741/d1ebca5b-34a9-473c-8afe-70f2b956cdb9">
 
 - **Error Message**: Clearly states the nature of the error.
 <hr>
